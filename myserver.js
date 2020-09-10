@@ -11,7 +11,7 @@ app.use(bodyParser.json());
 app.use(bodyParser.raw());
 
 const options = {
-  hostname: 'back01',
+  hostname: 'mrtdmgz-back01',
   port: 8080,
   path: '/api/hello',
   method: 'GET'
